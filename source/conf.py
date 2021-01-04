@@ -55,5 +55,5 @@ html_static_path = ['_static']
 master_doc = 'index'
 
 redirects = {
-    "*": "https://imbalanced-learn.org/stable/$source.html",
+    "*": "https://imbalanced-learn.org",
 }
